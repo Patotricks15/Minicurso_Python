@@ -1,7 +1,6 @@
 # Mini-curso de Python
 
-Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para livre utilização dos alunos do mini-curso de Introdução à linguagem de programação Python
-
+Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para livre utilização dos alunos do mini-curso de Introdução à linguagem de programação Python ministrado por mim no ano de 2021, um evento realizado pela SEG Rural Geophysics S.C.
 ## Arquivos
 
 
