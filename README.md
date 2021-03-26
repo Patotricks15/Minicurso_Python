@@ -5,7 +5,7 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 
 
 ## Notebooks (conteúdos + exercícios)
-Aula 1
+[Aula 1](https://colab.research.google.com/drive/1mygo9Cb-Fx700CQ2ijreBIQQkXeA7nYZ#scrollTo=HlcezFRGKCDn)
 
 Aula 2
 
