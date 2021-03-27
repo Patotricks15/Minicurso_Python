@@ -31,6 +31,14 @@ Resolução desafio 3.3
 
 Resolução desafio 3.4
 
+# Exercícios recomendados
+Após a aula 1: https://wiki.python.org.br/EstruturaSequencial
+
+Após a aula 2: https://wiki.python.org.br/EstruturaDeDecisao e um pouco desses https://wiki.python.org.br/ExerciciosListas
+
+Após a aula 3: https://wiki.python.org.br/EstruturaDeRepeticao
+
+
 # Cursos gratuitos e canais no youtube que recomendo
 (Curso em vídeo - Python)[https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6]
 
