@@ -15,25 +15,8 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 
 Aula 3
 
-## Scripts (Resolução dos desafios)
 
-Resolução desafio 1.1
-
-Resolução desafio 1.2
-
-Resolução desafio 2.1
-
-Resolução desafio 2.2
-
-Resolução desafio 2.3
-
-Resolução desafio 3.1
-
-Resolução desafio 3.2
-
-Resolução desafio 3.3
-
-Resolução desafio 3.4
+## [Nossa biblioteca](https://github.com/Patotricks15/Minicurso_Python/tree/main/Biblioteca)
 
 # Exercícios recomendados
 Após a aula 1: https://wiki.python.org.br/EstruturaSequencial
