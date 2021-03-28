@@ -1,4 +1,8 @@
-# Mini-curso de Python
+# Mini-curso: primeiros passos no Python
+
+<p align="center">
+  <img src="https://github.com/Patotricks15/Minicurso_Python/blob/main/minucurso.jfif" width="20%" title="hover text">
+</p>
 
 Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para livre utilização dos alunos do mini-curso de Introdução à linguagem de programação Python ministrado por mim no ano de 2021, um evento realizado pela SEG Rural Geophysics S.C.
 ## Arquivos
@@ -7,7 +11,7 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 ## Notebooks (conteúdos + exercícios)
 [Aula 1](https://colab.research.google.com/drive/1mygo9Cb-Fx700CQ2ijreBIQQkXeA7nYZ#scrollTo=HlcezFRGKCDn)
 
-Aula 2
+[Aula 2](https://colab.research.google.com/drive/1_2Q8arslQ2LjuM-CeTK1sh5EgHprep6U)
 
 Aula 3
 
