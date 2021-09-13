@@ -13,7 +13,7 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 
 [Aula 2](https://colab.research.google.com/drive/1_2Q8arslQ2LjuM-CeTK1sh5EgHprep6U)
 
-Aula 3
+[Aula 3](https://colab.research.google.com/drive/1-zFo3Iaiew_JgdnuKsO2MSthEvDlTbs9?usp=sharing)
 
 
 ## [Nossa biblioteca](https://github.com/Patotricks15/Minicurso_Python/tree/main/Biblioteca)
