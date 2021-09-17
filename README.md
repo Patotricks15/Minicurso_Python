@@ -9,9 +9,9 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 
 
 ## Notebooks (conteúdos + exercícios)
-[Aula 1](https://colab.research.google.com/drive/1mygo9Cb-Fx700CQ2ijreBIQQkXeA7nYZ#scrollTo=HlcezFRGKCDn)
+[Aula 1 - Introdução](https://colab.research.google.com/drive/1mygo9Cb-Fx700CQ2ijreBIQQkXeA7nYZ#scrollTo=HlcezFRGKCDn)
 
-[Aula 2](https://colab.research.google.com/drive/1_2Q8arslQ2LjuM-CeTK1sh5EgHprep6U)
+[Aula 2 - Estruturas de dados e condicionais](https://colab.research.google.com/drive/1_2Q8arslQ2LjuM-CeTK1sh5EgHprep6U)
 
 [Aula 3](https://colab.research.google.com/drive/1-zFo3Iaiew_JgdnuKsO2MSthEvDlTbs9?usp=sharing)
 
