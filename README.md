@@ -13,7 +13,31 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 
 [Aula 2 - Estruturas de dados e condicionais](https://colab.research.google.com/drive/1_2Q8arslQ2LjuM-CeTK1sh5EgHprep6U)
 
-[Aula 3](https://colab.research.google.com/drive/1-zFo3Iaiew_JgdnuKsO2MSthEvDlTbs9?usp=sharing)
+[Aula 3 - Estruturas de repetição](https://colab.research.google.com/drive/1-zFo3Iaiew_JgdnuKsO2MSthEvDlTbs9?usp=sharing)
+
+Aula 4 - Funções
+
+Aula 5 - Manipulação de strings
+
+Aula 6 - Trabalhando com arquivos (em breve)
+
+Aula 7 - Erros e Exceções (em breve)
+
+Aula 8 - Web Scraping (em breve)
+
+Aula 9 - Pyautogui (em breve)
+
+Aula 10 - REGEX (Expressões regulares)  (em breve)
+
+**Aulas bônus:**  (em breve)
+
+Como fazer uma análise de dados com Python
+
+Aplicando um algoritmo de Machine Learning pela primeira vez
+
+Como resolver um case técnico do processo seletivo de ciência de dados (nível estagiário/júnior) 
+
+5 projetos iniciantes que impressionam qualquer recrutador (ciência de dados)
 
 
 ## [Nossa biblioteca](https://github.com/Patotricks15/Minicurso_Python/tree/main/Biblioteca)
