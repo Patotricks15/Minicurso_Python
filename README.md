@@ -25,13 +25,15 @@ A ligação com a SEG vai até a aula 3, as demais serão cobradas um valor de R
 
 [Aula 6 - Trabalhando com arquivos](https://colab.research.google.com/drive/1OSF64xLhHhoWnQH3NKth9POMdzSLaKZ9?usp=sharing)
 
-Aula 7 - Erros e Exceções (em breve)
+Aula 7 - Manipulando planilhas Excel (em breve)
 
-Aula 8 - Web Scraping (em breve)
+Aula 8 - Erros e Exceções (em breve)
 
-Aula 9 - Pycharm + Pyautogui (em breve)
+Aula 9 - Web Scraping (em breve)
 
-Aula 10 - REGEX (Expressões regulares)  (em breve)
+Aula 10 - Pycharm + Pyautogui (em breve)
+
+Aula 11 - REGEX (Expressões regulares)  (em breve)
 
 **Aulas bônus:**  (em breve)
 
@@ -39,7 +41,7 @@ Como fazer uma análise de dados com Python
 
 Aplicando um algoritmo de Machine Learning pela primeira vez
 
-Como resolver um case técnico do processo seletivo de ciência de dados (nível estagiário/júnior) 
+Como resolver um case técnico de processo seletivo para cientista de dados (nível estagiário/júnior) 
 
 5 projetos iniciantes que impressionam qualquer recrutador (ciência de dados)
 
