@@ -21,9 +21,9 @@ A ligação com a SEG vai até a aula 3, as demais serão cobradas um valor de R
 
 [Aula 4 - Funções](https://colab.research.google.com/drive/19KS3dzpJdXxWsbdnbs1a5tcWpGH8BcnK#scrollTo=i1M_A-K00CbX)
 
-Aula 5 - Manipulação de strings
+[Aula 5 - Manipulação de strings](https://colab.research.google.com/drive/1iYnjU5awlqXN49MFAjkeA5QpMlVlaP03#scrollTo=K8tFBzKmFiRx)
 
-Aula 6 - Trabalhando com arquivos (em breve)
+[Aula 6 - Trabalhando com arquivos](https://colab.research.google.com/drive/1OSF64xLhHhoWnQH3NKth9POMdzSLaKZ9?usp=sharing)
 
 Aula 7 - Erros e Exceções (em breve)
 
