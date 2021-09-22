@@ -6,7 +6,7 @@
 
 Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para livre utilização dos alunos do mini-curso de Introdução à linguagem de programação Python ministrado por mim no ano de 2021, um evento realizado pela SEG Rural Geophysics S.C.
 
-O conteúdo é curto e objetivo, reunindo o que mais utilizamos no dia a dia trabalhando com Python para não-programadores. Reuní as funções e lógicas que mais encontrei na prática durante a vida profissional e acadêmica.
+O conteúdo é curto e objetivo, reunindo o que mais utilizamos no dia a dia trabalhando com Python para não-programadores. Reuní as funções e tópicos que mais encontrei na prática durante a vida profissional e acadêmica.
 
 A ligação com a SEG vai até a aula 3, as demais serão cobradas um valor de R$10,00.
 ## Arquivos
