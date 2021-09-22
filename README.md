@@ -29,7 +29,7 @@ Aula 7 - Erros e Exceções (em breve)
 
 Aula 8 - Web Scraping (em breve)
 
-Aula 9 - Pyautogui (em breve)
+Aula 9 - Pycharm + Pyautogui (em breve)
 
 Aula 10 - REGEX (Expressões regulares)  (em breve)
 
