@@ -8,7 +8,6 @@ Repositório destinado ao compartilhamento de scripts, notebooks e arquivos para
 
 O conteúdo é curto e objetivo, reunindo o que mais utilizamos no dia a dia trabalhando com Python para não-programadores. Reuní as funções e tópicos que mais encontrei na prática durante a vida profissional e acadêmica.
 
-A ligação com a SEG vai até a aula 3, as demais serão cobradas um valor de R$10,00.
 ## Arquivos
 
 
@@ -21,6 +20,8 @@ A ligação com a SEG vai até a aula 3, as demais serão cobradas um valor de R
 
 [Aula 3 - Estruturas de repetição](https://colab.research.google.com/drive/1-zFo3Iaiew_JgdnuKsO2MSthEvDlTbs9?usp=sharing)
 
+O mini-curso em parceria com a SEG vai até a aula 3
+______________________________________________________________________________________________________________________________________________________________________________
 [Aula 4 - Manipulação de strings](https://colab.research.google.com/drive/1iYnjU5awlqXN49MFAjkeA5QpMlVlaP03#scrollTo=K8tFBzKmFiRx)
 
 [Aula 5 - Funções](https://colab.research.google.com/drive/19KS3dzpJdXxWsbdnbs1a5tcWpGH8BcnK#scrollTo=i1M_A-K00CbX)
